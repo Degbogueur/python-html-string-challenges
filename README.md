@@ -15,8 +15,8 @@ and concatenation only. No parsers, no libraries — pure string primitives.
 | # | Challenge | Branch | Status |
 |---|-----------|--------|--------|
 | 1 | Update Page Metadata | `challenge/01-metadata` | ✅ Done |
-| 2 | Update Stylesheet and Script Sources | `challenge/02-assets` | ⏳ Pending |
-| 3 | Inject Heading Tags | `challenge/03-headings` | ⏳ Pending |
+| 2 | Update Stylesheet and Script Sources | `challenge/02-assets` | ✅ Done |
+| 3 | Inject Heading Tags | `challenge/03-headings` | ✅ Done |
 | 4 | Add Paragraph and Image Tags | `challenge/04-content` | ⏳ Pending |
 | 5 | Full Page Builder | `challenge/05-full-page` | ⏳ Pending |
 
@@ -50,3 +50,17 @@ the updated `lang` attribute and `<title>` tag render correctly.
 **Terminal output:**
 
 ![Challenge 2 Terminal](screenshots/challenge_02_terminal.png)
+
+---
+
+### Challenge 3 — Inject Heading Tags
+
+**Concepts:** `.find()`, `.split()` on a specific separator, string concatenation, multi-line string building
+
+**Solution file:** `challenge_03_headings.py`
+
+**HTML output file:** `html_outputs/challenge_03_output.html`
+
+**Terminal output:**
+
+![Challenge 3 Terminal](screenshots/challenge_03_terminal.png)
