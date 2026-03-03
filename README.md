@@ -64,3 +64,17 @@ the updated `lang` attribute and `<title>` tag render correctly.
 **Terminal output:**
 
 ![Challenge 3 Terminal](screenshots/challenge_03_terminal.png)
+
+---
+
+### Challenge 4 — Add Paragraph and Image Tags
+
+**Concepts:** `.find()`, `.rfind()`, multi-step string reconstruction, f-strings, \n and indentation management
+
+**Solution file:** `challenge_04_content.py`
+
+**HTML output file:** `html_outputs/challenge_04_output.html`
+
+**Terminal output:**
+
+![Challenge 4 Terminal](screenshots/challenge_04_terminal.png)
