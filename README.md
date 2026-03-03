@@ -36,3 +36,17 @@ and concatenation only. No parsers, no libraries — pure string primitives.
 
 **Browser preview:** Open `html_outputs/challenge_01_output.html` in a browser to verify
 the updated `lang` attribute and `<title>` tag render correctly.
+
+---
+
+### Challenge 2 — Update Stylesheet and Script Sources
+
+**Concepts:** `.find()`, `.index()`, string slicing with computed positions, concatenation
+
+**Solution file:** `challenge_02_stylesheets_and_scripts.py`
+
+**HTML output file:** `html_outputs/challenge_02_output.html`
+
+**Terminal output:**
+
+![Challenge 2 Terminal](screenshots/challenge_02_terminal.png)
